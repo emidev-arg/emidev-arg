@@ -6,7 +6,7 @@
 
 * Soy una persona demasiado responsable a la hora de hablar de trabajo y de cosas importantes, y sobre todo me gusta trabajar con profesionalismo tanto de parte del cliente como mio. Cuento con experiencia en BackEnd y FrontEnd, como asi también en el diseño gráfico.
 
-<div style="display:flex, flex-direction: row, justify-content: center, align-items: center, width: 100%">
+<div style="display:flex, flex-direction: row, justify-content: center, align-items: center, width: 100%, background: white">
 	<h1>Heeqe</h1>
 
 <img src="https://res.cloudinary.com/dn7fidyht/image/upload/v1705428399/sxlbii68pov5rfvebov9.png">
