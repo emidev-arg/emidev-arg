@@ -4,7 +4,7 @@
   <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.png" alt="Markdownify" width="200"></a>
 </h1>
 
-<h4 align="center">Web developer and Graphic designer.</h4>
+<h4 align="center">¡Welcome to the my GitHub!.</h4>
 
 <p align="center">
   <a href="https://badge.fury.io/js/electron-markdownify">
