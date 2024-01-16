@@ -1,10 +1,10 @@
 
 <h1 align="center">
   <br>
-  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.png" alt="Markdownify" width="200"></a>
+  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://res.cloudinary.com/dn7fidyht/image/upload/v1705424993/wjo1q9zwpzbs2v0dtxlm.png" alt="Markdownify" width="200"></a>
 </h1>
 
-<h4 align="center">¡Welcome to the my GitHub!.</h4>
+<h4 align="center">¡Welcome to the my GitHub!</h4>
 
 <p align="center">
   <a href="https://badge.fury.io/js/electron-markdownify">
