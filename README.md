@@ -1,4 +1,4 @@
-![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
+![screenshot](https://res.cloudinary.com/dn7fidyht/image/upload/v1705427513/ehao5k8umujdoq7lv1zl.jpg)
 
 ## ¿Quien soy?
 
