@@ -1,11 +1,3 @@
-
-<h1 align="center">
-  <br>
-  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://res.cloudinary.com/dn7fidyht/image/upload/v1705424993/wjo1q9zwpzbs2v0dtxlm.png" alt="Markdownify" width="200"></a>
-</h1>
-
-<h4 align="center">¡Welcome to the my GitHub!</h4>
-
 ![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
 
 ## ¿Quien soy?
