@@ -8,7 +8,7 @@
 
 ## ¿Que tecnologias uso?
 
-<img src="https://img.shields.io/static/v1?&message=NEXTJS&color=f8efd4&style=for-the-badge&logo=NextJS">
+<img src="https://res.cloudinary.com/dn7fidyht/image/upload/v1705428399/sxlbii68pov5rfvebov9.png">
 
 ## Download
 
