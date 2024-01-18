@@ -6,43 +6,17 @@
 
 * Soy una persona demasiado responsable a la hora de hablar de trabajo y de cosas importantes, y sobre todo me gusta trabajar con profesionalismo tanto de parte del cliente como mio. Cuento con experiencia en BackEnd y FrontEnd, como asi también en el diseño gráfico.
 
-<div style="display:flex, flex-direction: row, justify-content: center, align-items: center, width: 100%, background: white">
-	<h1>Heeqe</h1>
+<h1>Tecnologías</h1>
 
 <img src="https://res.cloudinary.com/dn7fidyht/image/upload/v1705428399/sxlbii68pov5rfvebov9.png">
 </div>
 
-## Download
-
-You can [download](https://github.com/amitmerchant1990/electron-markdownify/releases/tag/v1.2.0) the latest installable version of Markdownify for Windows, macOS and Linux.
-
-## Emailware
-
-Markdownify is an [emailware](https://en.wiktionary.org/wiki/emailware). Meaning, if you liked using this app or it has helped you in any way, I'd like you send me an email at <bullredeyes@gmail.com> about anything you'd want to say about this software. I'd really appreciate it!
-
-## Credits
-
-This software uses the following open source packages:
-
-- [Electron](http://electron.atom.io/)
-- [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
-- [showdown](http://showdownjs.github.io/showdown/)
-- [CodeMirror](http://codemirror.net/)
-- Emojis are taken from [here](https://github.com/arvida/emoji-cheat-sheet.com)
-- [highlight.js](https://highlightjs.org/)
-
-## Related
-
-[markdownify-web](https://github.com/amitmerchant1990/markdownify-web) - Web version of Markdownify
-
-## Support
+## Apoya mi trabajo
 
 <a href="https://www.patreon.com/amitmerchant">
 	<img src="https://res.cloudinary.com/dn7fidyht/image/upload/v1705427823/ogbzndqhimyg3x9oy6bo.png" width="160">
 </a>
 
-> [amitmerchant.com](https://www.amitmerchant.com) &nbsp;&middot;&nbsp;
-> GitHub [@amitmerchant1990](https://github.com/amitmerchant1990) &nbsp;&middot;&nbsp;
-> Twitter [@amit_merchant](https://twitter.com/amit_merchant)
+> GitHub [@emidev-arg](https://github.com/emidev-arg) &nbsp;&middot;&nbsp;
+> Instagram [@eemienriquee_](https://instagram.com/eemienriquee_)
 
