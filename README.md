@@ -16,7 +16,3 @@
 <a href="https://www.patreon.com/amitmerchant">
 	<img src="https://res.cloudinary.com/dn7fidyht/image/upload/v1705427823/ogbzndqhimyg3x9oy6bo.png" width="160">
 </a>
-
-> GitHub [@emidev-arg](https://github.com/emidev-arg) &nbsp;&middot;&nbsp;
-> Instagram [@eemienriquee_](https://instagram.com/eemienriquee_)
-
