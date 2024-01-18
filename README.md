@@ -11,7 +11,7 @@
 <img src="https://res.cloudinary.com/dn7fidyht/image/upload/v1705428399/sxlbii68pov5rfvebov9.png">
 </div>
 
-## Apoya mi trabajo
+<h1>Apoya mi trabajo</h1>
 
 <a href="https://www.patreon.com/amitmerchant">
 	<img src="https://res.cloudinary.com/dn7fidyht/image/upload/v1705427823/ogbzndqhimyg3x9oy6bo.png" width="160">
